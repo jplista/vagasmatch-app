@@ -2,7 +2,7 @@
 # 📄 VagaMatch
 
 Seu currículo ajustado para a vaga que você quer.  
-Aplicativo desenvolvido no **Lovable** para marketing de vagas de emprego e criação de currículos **ATS-friendly**, totalmente funcional **sem necessidade de cadastro**.
+https://curriculovagasmatch.lovable.app
 
 ---
 
